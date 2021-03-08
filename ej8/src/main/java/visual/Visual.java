@@ -102,7 +102,9 @@ public class Visual extends JFrame {
 		return borrar;
 	}
 
-
+	public void clickCambiar() {
+        convertir.doClick();
+    }
 	
 	
 }
